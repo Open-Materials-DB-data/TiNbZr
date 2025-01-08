@@ -1,5 +1,5 @@
 :Title: Web pages for HEAs with ultra large lattice distortions
-:Date: 2024-04-26
+:Date: 2025-01-08
 :Version: 1
 :Author: Rickard Armiento
 :Template: default
@@ -14,21 +14,21 @@ Data for: Machine learning interatomic potential for the low-modulus Ti-Nb-Zr al
 
 ===================================================================================================================
 
-*B.O. Mukhamedov*\ :sup:`1` and *B. Alling*\ :sup:`1`
+*B.O. Mukhamedov*\ :sup:`1` , *F. Tasnadi*\ :sup:`1` and *I.A. Abrikosov*\ :sup:`1`
 
 | :sup:`1`\ Department of Physics, Chemistry and Biology, Linköping University, Linköping, Sweden.
 
 
 
 Abstract:
-One of the key features of high entropy alloys is their severe local lattice distortions, which can lead to beneficial and unusual combination of mechanical properties. Most reported HEAs are made of size- and chemically similar elements, but if including a component with a distinct size difference was possible, further increase of the distortions could be foreseen. However, such additions have typically been disregarded as such alloys are thought to be unmixable. Here, we predict the possibility of mixing such large elements into well studied HEA with the help of high or moderate pressure. These new compositions are metastable at ambient conditions but can be stabilized with high pressures and probably quenched to ambient with suitable temperature-pressure protocols. The miscibility of three large elements in two alloy systems has been studied: Mg/Zr addition in CoCrFeMnNi alloy; and Pb addition in MoNbTaTiV alloy. We predict that some of the promising candidates can be thermodynamically stabilized at 15-20 GPa, or at even lower pressure at elevated temperature. If synthesized and quenched to ambient conditions, these metastable HEAs would possess ultra-large lattice distortions.
+Machine learning-augmented first-principles simulations facilitate the exploration of alloying and thermal treatments for tailoring material properties in industrial applications. However, addressing challenges near dynamical instabilities requires rigorous validation of machine-learned interatomic potentials (MLIP) to ensure their reliable applicability. In this study we have trained MLIP using moment tensor potentials to simulate finite temperature elastic properties of multicomponent beta-Ti94-xNbxZr6 alloys. Our simulations predict the presence of the elinvar effect for the wide range of temperatures. Importantly, we predict that in a vicinity of dynamical and mechanical instability, the beta-Ti94-xNbxZr6 alloys demonstrate strongly non-linear concentration-dependence of elastic moduli, which leads to low values of moduli comparable to that of human bone. Moreover, these alloys demonstrate a strong anisotropy of directional Young’s modulus which can be helpful for microstructure tailoring and design of materials with desired elastic properties.
 
 Data
 ----
 
 An archive with the data related to this work is available here:
 
-- Hosted by Open Materials Database: `HEAs_pressure.tar.gz <https://public.openmaterialsdb.se/TiNbZr_MTP/TiNbZr.tar.gz>`__
+- Hosted by Open Materials Database: `TiNbZr.tar.gz <https://public.openmaterialsdb.se/TiNbZr_MTP/TiNbZr.tar.gz>`__
 
 Note: if any of the above links are broken or anything else needs to be updated, please let us know using `the contact info on the dataset web page. <https://data.openmaterialsdb.se>`__
 
