@@ -6,12 +6,12 @@
 :Base_template: base_default
 
 ===================================================================================================================
-Data for: Suggesting the high-pressure route to metastable high entropy alloys with ultra-large lattice distortions
+Data for: Machine learning interatomic potential for the low-modulus Ti-Nb-Zr alloys in the vicinity of dynamical instability
 ===================================================================================================================
 
 ===================================================================================================================
-J. Appl. Phys. 136, 045903 (2024)
-https://doi.org/10.1063/5.0215928
+
+
 ===================================================================================================================
 
 *B.O. Mukhamedov*\ :sup:`1` and *B. Alling*\ :sup:`1`
@@ -37,4 +37,4 @@ Permanent link
 
 A permanent URL to this page is: 
 
-- https://data.openmaterialsdb.se/hea_pressure
+- https://data.openmaterialsdb.se/tinbzr_mtp
