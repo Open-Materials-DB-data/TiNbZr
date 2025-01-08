@@ -28,7 +28,7 @@ Data
 
 An archive with the data related to this work is available here:
 
-- Hosted by Open Materials Database: `HEAs_pressure.tar.gz <https://public.openmaterialsdb.se/HEAs_pressure/HEAs_pressure.tar.gz>`__
+- Hosted by Open Materials Database: `HEAs_pressure.tar.gz <https://public.openmaterialsdb.se/TiNbZr_MTP/TiNbZr.tar.gz>`__
 
 Note: if any of the above links are broken or anything else needs to be updated, please let us know using `the contact info on the dataset web page. <https://data.openmaterialsdb.se>`__
 
