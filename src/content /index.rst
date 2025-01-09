@@ -1,4 +1,4 @@
-:Title: Web pages for HEAs with ultra large lattice distortions
+:Title: Web pages for Machine learning interatomic potential for the low-modulus Ti-Nb-Zr alloys in the vicinity of dynamical instability
 :Date: 2025-01-08
 :Version: 1
 :Author: Rickard Armiento
