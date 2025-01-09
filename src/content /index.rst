@@ -18,7 +18,7 @@ Data for: Machine learning interatomic potential for the low-modulus Ti-Nb-Zr al
 
 | :sup:`1`\ Department of Physics, Chemistry and Biology, Linköping University, Linköping, Sweden.
 
-
+===================================================================================================================
 
 Abstract:
 Machine learning-augmented first-principles simulations facilitate the exploration of alloying and thermal treatments for tailoring material properties in industrial applications. However, addressing challenges near dynamical instabilities requires rigorous validation of machine-learned interatomic potentials (MLIP) to ensure their reliable applicability. In this study we have trained MLIP using moment tensor potentials to simulate finite temperature elastic properties of multicomponent beta-Ti94-xNbxZr6 alloys. Our simulations predict the presence of the elinvar effect for the wide range of temperatures. Importantly, we predict that in a vicinity of dynamical and mechanical instability, the beta-Ti94-xNbxZr6 alloys demonstrate strongly non-linear concentration-dependence of elastic moduli, which leads to low values of moduli comparable to that of human bone. Moreover, these alloys demonstrate a strong anisotropy of directional Young’s modulus which can be helpful for microstructure tailoring and design of materials with desired elastic properties.
